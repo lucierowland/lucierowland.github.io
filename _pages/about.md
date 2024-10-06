@@ -48,7 +48,7 @@ Feel free to explore my site to learn more about my work, check out my recent pu
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_5009.png" title="Me on safari!" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IMG_5009.png" title="Me on safari" class="img-fluid rounded z-depth-1" %}
     
     </div>
 </div>
