@@ -2,7 +2,7 @@
 layout: page
 title: My Research
 permalink: /research/
-description: Here you'll find some information about my latest research projects. Overall, I am interested in learning about how galaxies form and evolve.
+description: Here you'll find some information about my latest research projects. Overall, I am interested in learning about how galaxies form and evolve by studying their emission lines, morphologies, and kinematics. To do this, I work with data from cutting-edge observatories like the Multi Unit Spectroscopic Explorer (MUSE) on the Very Large Telescope (VLT), the Atacama Large Millimeter/submillimeter Array (ALMA), and the James Webb Space Telescope (JWST).
 nav: true
 nav_order: 3
 display_categories: [work, fun]
