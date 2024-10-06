@@ -26,7 +26,7 @@ Dwarf galaxies may be small, but they play a huge role in our understanding of g
     </div>
 </div>
 <div class="caption">
-    MUSE is an Integral Field Unit spectrograph, meaning we can take aboth images and spectra of our targets. Here is a spectrum of one of the HII regions analysed in this work.
+    MUSE is an Integral Field Unit spectrograph, meaning we can take both images and spectra of our targets. Here is a spectrum of one of the HII regions analysed in this work.
 </div>
 
 
@@ -39,7 +39,7 @@ Dwarf galaxies may be small, but they play a huge role in our understanding of g
     </div>
 </div>
 <div class="caption">
-    
+    In this paper, we show how the feedback-related pressure terms within HII regions are dependent on properties such as the metallicity (left) and size (right) of the HII regions.
 </div>
 
 
