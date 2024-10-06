@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 display_categories: [The Local Dwarves, The Distant Giants]
 horizontal: true
+social: true # 
 ---
 
 <!-- pages/projects.md -->
