@@ -11,22 +11,16 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DO01012049 3.jpg" title="Three nearby dwarf galaxies" class="img-fluid rounded z-depth-1" %}
-    
+        {% include figure.liquid path="assets/img/DO01012049 3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/IDO01022727 4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The Northern Lights, captured during a conference called 'Extreme Galaxies in Extreme Environments' that I attended in Iceland earlier this year.
+    Left: The Northern Lights, captured during a conference called 'Extreme Galaxies in Extreme Environments' that I attended in Iceland earlier this year. Right: The centre of the Milky Way, captured from Kruger National Park in South Africa. This was taken whilst I was at the International Astronomical Union (IAU) general assembly in Cape Town this summer.
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DO01022727 4.jpg" title="spectrum" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    The centre of the Milky Way, captured from Kruger National Park in South Africa.
-</div>
 
 
 <div class="row">
