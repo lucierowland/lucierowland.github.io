@@ -5,7 +5,7 @@ permalink: /
 subtitle: PhD Student at Leiden Observatory #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  #align: right
+  align: middle
   image: IMG_5009.png
   image_circular: false # crops the image to make it circular
   #more_info: >
