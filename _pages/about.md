@@ -2,7 +2,7 @@
 layout: about 
 title: About Me
 permalink: /
-subtitle: Leiden Observatory #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student at Leiden Observatory #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
