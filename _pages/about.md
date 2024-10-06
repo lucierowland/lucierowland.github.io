@@ -5,9 +5,10 @@ permalink: /
 subtitle: PhD Student at Leiden Observatory #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: center
+  align: right
   image: IMG_5009.png
   image_circular: false # crops the image to make it circular
+  width: 460
   #more_info: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
