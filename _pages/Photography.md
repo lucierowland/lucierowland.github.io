@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Photography
-permalink: /photography/
+title: Astrohotography
+permalink: /astrophotography/
 description: In progress!
 nav: true
 nav_order: 6
