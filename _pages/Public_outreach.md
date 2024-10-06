@@ -5,7 +5,7 @@ permalink: /public_outreach/
 description: So far, I've had the opportunity to give public talks through iTelescope.net, with the Durham Unviversity Women in STEM society (DUWIS), and at the Niehls Bohr Institute at the University of Copenhagen. I am also a regular writer at Astrobites - for more details, click below!
 nav: true
 nav_order: 4
-display_categories: [work, fun]
+display_categories: false
 horizontal: false
 ---
 
@@ -17,7 +17,7 @@ horizontal: false
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign categorized_projects = site.outreach | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
