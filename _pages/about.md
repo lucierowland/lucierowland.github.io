@@ -4,12 +4,12 @@ title: About Me
 permalink: /
 subtitle: PhD Student at Leiden Observatory #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
-profile:
-  align: right
-  image: IMG_5009.png
-  image_circular: false # crops the image to make it circular
-  width: 860
-  height: 600
+#profile:
+#  align: right
+#  image: IMG_5009.png
+#  image_circular: false # crops the image to make it circular
+#  width: 860
+#  height: 600
   #more_info: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
@@ -25,6 +25,16 @@ social: true # includes social icons at the bottom of the page
 
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/IMG_5009.png" title="prof pic" class="img-fluid rounded z-depth-1" %}
+    
+    </div>
+</div>
+<div class="caption">
+    ...
+</div>
 
 Hello, welcome to my website! Here you’ll find the latest information about my research, publications, and public outreach efforts. I’m Lucie Rowland, an astronomer studying galaxy formation and evolution, from nearby dwarf galaxies to massive, distant galaxies in the early Universe. My work involves using data from cutting-edge observatories like JWST and ALMA to uncover how stars form and impact their galactic environments. 
 
