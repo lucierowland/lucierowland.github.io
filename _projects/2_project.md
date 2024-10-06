@@ -5,6 +5,7 @@ description: For my PhD, I have been working with the REBELS team to study a sam
 img: assets/img/HRlogo_txt.png
 importance: 2
 category: The Distant Giants
-giscus_comments: true
+giscus_comments: false
+related_publications: true
 ---
 
