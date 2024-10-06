@@ -7,6 +7,7 @@ nav: true
 nav_order: 4
 display_categories: false
 horizontal: false
+social: true # 
 ---
 
 # Astrobites
