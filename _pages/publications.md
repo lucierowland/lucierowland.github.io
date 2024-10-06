@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 
 #move this below the lines to make it work
-#<!-- _pages/publications.md -->
+
 
 #<!-- Bibsearch Feature -->
 
@@ -21,4 +21,4 @@ nav_order: 2
 ---
 
 
-
+<!-- _pages/publications.md -->
