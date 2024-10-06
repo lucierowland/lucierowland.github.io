@@ -2,7 +2,7 @@
 layout: page
 title: The Local Dwarves
 description: Studying nearby dwarf galaxies
-img: assets/img/12.jpg
+img: assets/img/Figure2.png
 importance: 1
 category: work
 related_publications: true
