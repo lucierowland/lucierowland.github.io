@@ -16,7 +16,7 @@ subtitle: PhD Student at Leiden Observatory #<a href='#'>Affiliations</a>. Addre
   #  <p>Your City, State 12345</p>
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
@@ -25,6 +25,18 @@ social: true # includes social icons at the bottom of the page
 
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
+
+Hello, welcome to my website! Here you’ll find the latest information about my research, publications, and public outreach efforts.
+
+I’m Lucie Rowland, an astronomer studying galaxy formation and evolution, ranging from nearby dwarf galaxies to massive, distant galaxies in the early Universe. My work involves leveraging data from cutting-edge observatories like the James Webb Space Telescope (JWST) and the Atacama Large Millimeter/submillimeter Array (ALMA) to uncover how stars form and influence their environments.
+
+Currently, I am in the third year of my PhD at Leiden University in the Netherlands. Alongside my research, I am enthusiastic about public outreach and science communication. I enjoy sharing my experiences of academic life, the challenges and rewards of pursuing a PhD, and the adventure of moving abroad. Whether you're an aspiring PhD student or someone curious about a career in research, I’m always happy to offer advice and tips to help you navigate your path.
+
+I also enjoy writing about the latest developments in astronomy in a way that anyone can understand. It’s an exciting time to be an astronomer, and I hope to make complex scientific discoveries accessible and engaging for a broad audience. 
+
+Feel free to explore my site to learn more about my work, check out my recent publications, read my science communication pieces, and discover tips for aspiring astronomers.
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,9 +48,7 @@ social: true # includes social icons at the bottom of the page
     ...
 </div>
 
-Hello, welcome to my website! Here you’ll find the latest information about my research, publications, and public outreach efforts. I’m Lucie Rowland, an astronomer studying galaxy formation and evolution, from nearby dwarf galaxies to massive, distant galaxies in the early Universe. My work involves using data from cutting-edge observatories like JWST and ALMA to uncover how stars form and impact their galactic environments. 
 
-I’m currently in the third year of my PhD, and alongside my research, I’m passionate about public outreach and science communication. I enjoy sharing my experiences of academic life, the challenges and rewards of doing a PhD, and the journey of moving abroad. I’m always happy to offer advice to aspiring PhD students and hope this website provides useful insights for anyone interested in astronomy or pursuing a research career.
 
 
 
