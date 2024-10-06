@@ -8,7 +8,8 @@ profile:
   align: right
   image: IMG_5009.png
   image_circular: false # crops the image to make it circular
-  width: 460
+  width: 860
+  height: 600
   #more_info: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
@@ -25,6 +26,10 @@ social: true # includes social icons at the bottom of the page
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
 
-Hello! I'm Lucie Rowland, a third year PhD student in Astronomy at Leiden Observatory.
+Hello, welcome to my website! Here you’ll find the latest information about my research, publications, and public outreach efforts. I’m Lucie Rowland, an astronomer studying galaxy formation and evolution, from nearby dwarf galaxies to massive, distant galaxies in the early Universe. My work involves using data from cutting-edge observatories like JWST and ALMA to uncover how stars form and impact their galactic environments. 
+
+I’m currently in the third year of my PhD, and alongside my research, I’m passionate about public outreach and science communication. I enjoy sharing my experiences of academic life, the challenges and rewards of doing a PhD, and the journey of moving abroad. I’m always happy to offer advice to aspiring PhD students and hope this website provides useful insights for anyone interested in astronomy or pursuing a research career.
+
+
 
 
