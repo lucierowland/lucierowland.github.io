@@ -1,10 +1,10 @@
 ---
 layout: page
-title: The Distant Giants
+title: Massive Galaxies in the Early Universe
 description: Studying massive galaxies in the early Universe
 img: assets/img/HRlogo_txt.png
 importance: 2
-category: work
+category: The Distant Giants
 giscus_comments: true
 ---
 
