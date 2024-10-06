@@ -4,12 +4,11 @@ title: About Me
 permalink: /
 subtitle: PhD Student at Leiden Observatory #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
-#profile:
-#  align: right
-#  image: IMG_5009.png
-#  image_circular: false # crops the image to make it circular
-#  width: 860
-#  height: 600
+profile:
+  align: right
+  image: FC_20220701_0038.JPG
+  image_circular: false # crops the image to make it circular
+  
   #more_info: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
