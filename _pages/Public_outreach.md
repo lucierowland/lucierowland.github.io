@@ -11,6 +11,10 @@ horizontal: false
 
 # Astrobites
 
+Astrobites is a daily astrophysical journal run by graduate students from all around the world. Every day, we post a 'bite' - a short summary of a recent research paper that we have summarised in a digestible way, targeted towards undergraduate students who want to learn more about the latest developments in Astrophysics.
+
+See my page on Astrobites [here](https://astrobites.org/author/lrowland/).
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/astrobites-logo-1-CMYK.webp" title="astrobites" class="img-fluid rounded z-depth-1" %}
