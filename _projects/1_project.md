@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stellar Feedback in Nearby Dwarf Galaxies
-description: Published in A&A ({% cite 2024A&A...685A..46R %})
+description: Published in A&A ({% cite rowland_2024 %})
 img: assets/img/Figure2.png
 importance: 1
 category: The Local Dwarves
