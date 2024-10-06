@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Stellar Feedback in Nearby Dwarf Galaxies
-description: Published in A&A ({% cite rowland_2024 %})
+description: Published in A&A 
 img: assets/img/Figure2.png
 importance: 1
 category: The Local Dwarves
 related_publications: true
 ---
 
-Dwarf galaxies may be small, but they play a huge role in our understanding of galaxy formation and evolution. During my Masters' at Durham University, I focused on a sample of nearby, low-metallicity dwarf galaxies, where stellar feedback plays a crucial role in regulating star formation. Using cutting-edge techniques like integral field spectroscopy and stochastic stellar population models, I investigate how feedback from these stars evolves and varies based on the properties of their host galaxies. This research helps bridge the gap between our understanding of large spiral galaxies and these fascinating, small-scale systems.
+Dwarf galaxies may be small, but they play a huge role in our understanding of galaxy formation and evolution. During my Masters' at Durham University, I focused on a sample of nearby, low-metallicity dwarf galaxies, where stellar feedback plays a crucial role in regulating star formation. Using cutting-edge techniques like integral field spectroscopy and stochastic stellar population models, I investigate how feedback from these stars evolves and varies based on the properties of their host galaxies. This research helps bridge the gap between our understanding of large spiral galaxies and these fascinating, small-scale systems (see {% cite rowland_2024 %})).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
