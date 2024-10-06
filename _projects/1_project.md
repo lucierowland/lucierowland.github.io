@@ -1,10 +1,10 @@
 ---
 layout: page
-title: The Local Dwarves
-description: Studying nearby dwarf galaxies
+title: Stellar Feedback in Nearby Dwarf Galaxies
+description: Published in A&A
 img: assets/img/Figure2.png
 importance: 1
-category: work
+category: The Local Dwarves
 related_publications: true
 ---
 
