@@ -2,11 +2,11 @@
 layout: page
 title: My Research
 permalink: /research/
-description: A growing collection of your cool projects.
+description: Here you'll find some information about my latest research projects. Overall, I am interested in learning about how galaxies form and evolve.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
