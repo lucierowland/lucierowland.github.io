@@ -6,7 +6,7 @@ subtitle: Leiden Observatory #<a href='#'>Affiliations</a>. Address. Contacts. M
 
 profile:
   align: right
-  image: IMG_5009
+  image: IMG_5009.png
   image_circular: false # crops the image to make it circular
   #more_info: >
   #  <p>555 your office number</p>
