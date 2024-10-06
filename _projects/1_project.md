@@ -8,46 +8,41 @@ category: work
 related_publications: true
 ---
 
-
+Dwarf galaxies may be small, but they play a huge role in our understanding of galaxy formation and evolution. During my Masters' at Durham University, I focused on a sample of nearby, low-metallicity dwarf galaxies, where stellar feedback plays a crucial role in regulating star formation. Using cutting-edge techniques like integral field spectroscopy and stochastic stellar population models, I investigate how feedback from these stars evolves and varies based on the properties of their host galaxies. This research helps bridge the gap between our understanding of large spiral galaxies and these fascinating, small-scale systems.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Figure2.png" title="Three nearby dwarf galaxies" class="img-fluid rounded z-depth-1" %}
     
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    The three galaxies I studied in this work were observed with the MUSE IFU on the Very Large Telescope (VLT) in Chile.
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/KKH046_1_spectrum.png" title="spectrum" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    MUSE is an Integral Field Unit spectrograph, meaning we can take aboth images and spectra of our targets. Here is a spectrum of one of the HII regions analysed in this work.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Final_P_vs_Z.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+
 
 {% raw %}
 
