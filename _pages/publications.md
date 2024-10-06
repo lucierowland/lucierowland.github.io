@@ -5,6 +5,7 @@ title: Publications
 description: Here are all of my first-author papers (so far!)
 nav: true
 nav_order: 2
+social: true # 
 
 #move this below the lines to make it work
 
