@@ -1,5 +1,5 @@
 ---
-layout: About 
+layout: about 
 title: About Me
 permalink: /
 subtitle: Leiden Observatory #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
