@@ -19,7 +19,7 @@ Our findings suggest that stellar feedback decreases as regions evolve, with fee
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Figure2.png" title="Three nearby dwarf galaxies" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Figure2.png" title="Nearby dwarf galaxies" class="img-fluid rounded z-depth-1" %}
     
     </div>
 </div>
@@ -29,7 +29,7 @@ Our findings suggest that stellar feedback decreases as regions evolve, with fee
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/KKH046_1_spectrum.png" title="spectrum" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/KKH046_1_spectrum.png" title="Spectrum of a HII region" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -39,10 +39,10 @@ Our findings suggest that stellar feedback decreases as regions evolve, with fee
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Final_P_vs_Z.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Final_P_vs_Z.png" title="Stellar feedback and the size of HII regions" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Final_P_vs_r.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Final_P_vs_r.png" title="Stellar feedback and metallicity" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
