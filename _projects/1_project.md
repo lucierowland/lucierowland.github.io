@@ -7,9 +7,15 @@ importance: 1
 category: The Local Dwarves
 related_publications: true
 ---
-**{% cite rowland_2024 %})**
+**{% cite rowland_2024 %}**
 
-Dwarf galaxies may be small, but they play a huge role in our understanding of galaxy formation and evolution. During my Masters' at Durham University, I focused on a sample of nearby, low-metallicity dwarf galaxies, where stellar feedback plays a crucial role in regulating star formation. Using cutting-edge techniques like integral field spectroscopy and stochastic stellar population models, I investigate how feedback from these stars evolves and varies based on the properties of their host galaxies. This research helps bridge the gap between our understanding of large spiral galaxies and these fascinating, small-scale systems.
+One field of research that I am particularly interested in is the study of nearby, low metallicity dwarf galaxies. These galaxies provide a unique opportunity to study how stars shape their environments in extreme conditions, similar to those of the early Universe. 
+
+In this work, we investigate the impact of stellar feedback in three dwarf starburst galaxies — J0921, KKH046, and Leo P. Using VLT/MUSE integral field spectroscopy, we examine the properties of 30 individual HII regions within these galaxies, focusing on their ionised gas and stellar populations. We quantify two pre-supernova stellar feedback mechanisms, namely the direct radiation pressure and photoionisation feedback, and explore how feedback strength varies with HII region properties.
+
+Our findings suggest that stellar feedback decreases as regions evolve, with feedback strength also influenced by the metallicity of the regions. This work extends feedback studies from massive galaxies to low-mass dwarfs, providing insights into how these small systems regulate star formation and evolve over time, offering a glimpse into the processes that shaped galaxies in the early universe.
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
