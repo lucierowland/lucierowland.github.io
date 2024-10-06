@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 #display_categories: [fun]
 horizontal: false
+social: true # 
 ---
 
 <div class="row">
