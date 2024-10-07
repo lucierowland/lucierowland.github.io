@@ -4,7 +4,7 @@ title: Astrophotography
 permalink: /astrophotography/
 description: In progress!
 nav: true
-nav_order: 6
+nav_order: 7
 #display_categories: [fun]
 horizontal: false
 social: true # 
