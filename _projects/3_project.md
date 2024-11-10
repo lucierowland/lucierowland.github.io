@@ -26,7 +26,7 @@ In this work, we present high-resolution ALMA observations of REBELS-25, which w
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/REBELS_25_maps_azim_lucie (1).pdf" title="REBELS-25_velocity_maps" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/REBELS_25_maps_azim_lucie.pdf" title="REBELS-25_velocity_maps" class="img-fluid rounded z-depth-1" %}
     
     </div>
 </div>
