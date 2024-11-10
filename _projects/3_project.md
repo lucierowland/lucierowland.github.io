@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Disovery of dynamically cold disc galaxy at z=7.31
+title: Disovery of a dynamically cold disc galaxy at z=7.31
 description: 
 img: assets/img/eso2415b.png
 importance: 3
