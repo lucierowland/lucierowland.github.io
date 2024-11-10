@@ -13,7 +13,7 @@ social: true #
 
 For my first PhD project, I have been studying a high redshift (z=7.31) galaxy called 'REBELS-25'. With some exquisite data from ALMA, we have discovered that this galaxy is in fact a dynamically cold disc, in an epoch of time when we expected galaxies to be more dominated by turbulent motion. Its high degree of rotational support makes it more similar to local disc galaxies, much like our own Milky Way, despite this galaxy being observed just 700 million years after the Big Bang! To date, this is the most distant, confirmed rotating disc galaxy to be observed (so far), and is challenging our idea of galaxy evolution in the early Universe.
 
-See the ESO press release [here]([https://astrobites.org/author/lrowland/](https://www.eso.org/public/news/eso2415/))
+See the ESO press release [here](https://www.eso.org/public/news/eso2415/) and the CNN article [here](https://edition.cnn.com/2024/10/16/science/rebels-25-disc-galaxy-paper-scli-intl/index.html).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
