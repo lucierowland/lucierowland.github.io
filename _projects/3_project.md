@@ -2,7 +2,7 @@
 layout: page
 title: Disovery of dynamically cold disc galaxy at z=7.31
 description: 
-img: assets/img/HRlogo_txt.png
+img: assets/img/eso2415b.tif
 importance: 3
 category: The Distant Giants
 giscus_comments: false
