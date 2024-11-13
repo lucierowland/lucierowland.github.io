@@ -28,3 +28,6 @@ social: true #
 {% bibliography %}
 
 </div>
+
+
+Also, here are some papers led by my colleagues, where I am a co-author:
