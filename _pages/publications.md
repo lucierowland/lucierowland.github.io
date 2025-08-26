@@ -14,10 +14,10 @@ For the most up to date list, see all my publications on ADS [here](https://ui.a
 
 ## First-author papers
 <div class="publications">
-  {% bibliography --query @*[firstauthor="yes"] %}
+  {% bibliography --query @*[author=~"^\{?Rowland,\s+(Lucie|L\.)"] %}
 </div>
 
 ## Co-author papers
 <div class="publications">
-  {% bibliography --query @*[author=~"Rowland" and author!~"^Rowland"] %}
+  {% bibliography --query @*[author=~"^(?!\{?Rowland).*Rowland"] %}
 </div>
