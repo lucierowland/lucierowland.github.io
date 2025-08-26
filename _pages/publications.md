@@ -21,3 +21,14 @@ For the most up to date list, see all my publications on ADS [here](https://ui.a
 <div class="publications">
   {% bibliography --query @*[author=~"^(?!\{?Rowland).*Rowland"] %}
 </div>
+
+
+## First-author papers
+<div class="publications">
+  {% bibliography --query @*[author=~"^\{?Rowland,"] %}
+</div>
+
+## Co-author papers
+<div class="publications">
+  {% bibliography --query @*[author=~"Rowland" and not author=~"^\{?Rowland,"] %}
+</div>
