@@ -14,7 +14,7 @@ For the most up to date list, see all my publications on ADS [here](https://ui.a
 
 ## First-author papers
 <div class="publications">
-  {% bibliography --query @*[author=~"^\{?Rowland,\s+(Lucie|L\.)"] %}
+  {% bibliography --query @*[author=~"^\{?Rowland,\s+(Lucie)"] %}
 </div>
 
 ## Co-author papers
