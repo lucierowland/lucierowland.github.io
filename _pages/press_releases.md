@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Press Releases
+title: News & Events
 permalink: /press_releases/
 #{% include news.liquid %}
 description: Check out the link below for the press release on my first PhD paper!
