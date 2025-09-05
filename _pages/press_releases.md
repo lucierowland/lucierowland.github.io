@@ -32,14 +32,15 @@ Using ALMA, our community detected **oxygen** in **JADES-GS-z14-0**, locking in 
 I’m a **co-author** on this work, which was **led by my Leiden colleague Sander Schouws**.  
 **Read the ESO press release:** <https://www.eso.org/public/news/eso2507/>
 
-<!-- Optional image: save the PR image as assets/img/eso2507a.jpg and uncomment.
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/eso2507a.jpg" title="Oxygen in JADES-GS-z14-0" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/eso2507b.jpg" title="ESO press release 2" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-<div class="caption">Credit: ESO/ALMA (ESO/NAOJ/NRAO)</div>
--->
+<div class="caption">
+  Credit: ALMA (ESO/NAOJ/NRAO)/S. Carniani et al./S. Schouws et al/JWST: NASA, ESA, CSA, STScI, Brant Robertson (UC Santa Cruz), Ben Johnson (CfA), Sandro Tacchella (Cambridge), Phill Cargile (CfA)
+</div>
+
 
 ---
 
