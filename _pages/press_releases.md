@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News & Events
+title: News 
 permalink: /press_releases/
 description: Milestones from my PhD — from discovering the most distant confirmed rotating disc galaxy to spotting oxygen in the early Universe, and joining a new ALMA programme to probe the first galaxies.
 nav: true
