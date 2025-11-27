@@ -1,6 +1,6 @@
 ---
 layout: about 
-title: About Me
+title: About
 permalink: /
 subtitle: PhD Student at Leiden Observatory #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
