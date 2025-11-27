@@ -2,7 +2,7 @@
 layout: page
 title: Outreach
 permalink: /public_outreach/
-description: I’m passionate about sharing astronomy with a wide audience and love engaging with the public through talks, writing, and community events. I have given public talks through iTelescope.net, the Durham University Women in STEM (DUWIS) society in Durham, and Astronomy on Tap in Leiden, and I write regularly for Astrobites. My writing was recently featured in Zenit, a Dutch science magazine. 
+description: Communicating science is one of my favourite parts of being an astronomer. I have given public talks through iTelescope.net, the Durham University Women in STEM (DUWIS) society in Durham, and Astronomy on Tap in Leiden, and I write regularly for Astrobites. My writing was recently featured in Zenit, a Dutch science magazine. 
 nav: true
 nav_order: 5
 display_categories: false
