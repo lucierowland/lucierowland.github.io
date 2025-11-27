@@ -28,6 +28,6 @@ See my page on Astrobites [here](https://astrobites.org/author/lrowland/)
 --
 
 # Public Science Talks
-I recently had the opportunity to give a talk at Astronomy on Tap in Leiden in the ['Measuring the edge of Infinity'](https://www.universiteitleiden.nl/en/events/2025/07/astronomy-on-tap) event. My talk, 'A long time ago in galaxies far, far away...', was focused on the redshift frontier - an ongoing effort to discover and explore the most distant galaxies ever observed. See the recording [here]((https://www.youtube.com/watch?v=lWwyXbgSqV8).
+I recently had the opportunity to give a talk at Astronomy on Tap in Leiden at the ['Measuring the edge of Infinity'](https://www.universiteitleiden.nl/en/events/2025/07/astronomy-on-tap) event. My talk, 'A long time ago in galaxies far, far away...', was focused on the redshift frontier - an ongoing effort to discover and explore the most distant galaxies ever observed. See the recording [here]((https://www.youtube.com/watch?v=lWwyXbgSqV8).
 
 At iTelescope.net, I was invited to speak about how astronomers use observations to study the most distant galaxies in the Universe. See it on YouTube [here](https://www.youtube.com/watch?v=2h2Y_sa7-x0).
