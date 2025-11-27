@@ -2,7 +2,8 @@
 layout: page
 title: Outreach
 permalink: /public_outreach/
-description: So far, I've had the opportunity to give public talks through iTelescope.net, with the Durham Unviversity Women in STEM society (DUWIS), and at the Niehls Bohr Institute at the University of Copenhagen. I am also a regular writer at Astrobites - for more details, click below!
+description: I’m passionate about sharing astronomy with a wide audience and love engaging with the public through talks, writing, and community events. I have given public talks through iTelescope.net, the Durham University Women in STEM (DUWIS) society in Durham, and Astronomy on Tap in Leiden, and I write regularly for Astrobites. My writing was recently featured in Zenit, a Dutch science magazine.
+**I’m always happy to give talks, write pieces, or collaborate on outreach projects—please get in touch!**
 nav: true
 nav_order: 5
 display_categories: false
