@@ -19,7 +19,7 @@ social: true #
     </div>
 </div>
 <div class="caption">
-    Left: The Northern Lights, captured during a conference called 'Extreme Galaxies in Extreme Environments' that I attended in Iceland earlier this year. Right: The centre of the Milky Way, captured from Kruger National Park in South Africa. This was taken whilst I was at the International Astronomical Union (IAU) general assembly in Cape Town this summer.
+    Left: The Northern Lights, captured during a conference called 'Extreme Galaxies in Extreme Environments' that I attended in Iceland. Right: The centre of the Milky Way, captured from Kruger National Park in South Africa. This was taken whilst I was at the International Astronomical Union (IAU) general assembly in Cape Town.
 </div>
 
 
