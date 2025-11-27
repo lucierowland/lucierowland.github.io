@@ -10,6 +10,8 @@ horizontal: false
 social: true
 ---
 
+---
+
 ## REBELS-25: my first PhD paper & press release
 For my first PhD project, I led a study of a galaxy at z=7.31, when the Universe was only ~700 million years old, known as **REBELS-25**. Against expectations, we found it’s a **dynamically cold, rotation-supported disc** — more like an orderly Milky Way–style spiral than the turbulent systems we thought dominated the early Universe.  
 This is the **most distant, confirmed rotating disc galaxy** (so far), and it pushes theories about how quickly galaxies can settle into stable discs.
