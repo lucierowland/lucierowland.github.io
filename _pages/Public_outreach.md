@@ -12,6 +12,8 @@ social: true #
 
 **I’m always happy to give talks, write pieces, or collaborate on outreach projects—please get in touch!**
 
+---
+
 # Astrobites
 
 Astrobites is a daily astrophysical journal run by graduate students from all around the world. Every day, we post a 'bite' - a short summary of a recent research paper that we have summarised in a digestible way, targeted towards undergraduate students who want to learn more about the latest developments in Astrophysics.
@@ -25,7 +27,7 @@ See my page on Astrobites [here](https://astrobites.org/author/lrowland/)
     </div>
 </div>
 
---
+---
 
 # Public Science Talks
 I recently had the opportunity to give a talk at Astronomy on Tap in Leiden at the ['Measuring the edge of Infinity'](https://www.universiteitleiden.nl/en/events/2025/07/astronomy-on-tap) event. My talk, 'A long time ago in galaxies far, far away...', was focused on the redshift frontier - an ongoing effort to discover and explore the most distant galaxies ever observed. See the recording [here](https://www.youtube.com/watch?v=lWwyXbgSqV8).
