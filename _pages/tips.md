@@ -23,10 +23,10 @@ You can view the slides below or download them as a PDF.
 ### 📄 Slides (PDF)
 
 <iframe
-  src="../assets/pdfs/DUWIS_PhD_advice.pdf"
+  src="/assets/pdf/DUWIS_PhD_advice.pdf"
   width="100%"
   height="800px"
   style="border: 1px solid #ccc;">
 </iframe>
 
-[Download the slides (PDF)](../assets/pdfs/DUWIS_PhD_advice.pdf)
+[Download the slides (PDF)](/assets/pdf/DUWIS_PhD_advice.pdf)
