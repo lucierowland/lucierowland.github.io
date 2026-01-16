@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Outreach
-permalink: /public_outreach/
-description: Communicating science is one of my favourite parts of being an astronomer. I have given public talks through iTelescope.net, the Durham University Women in STEM (DUWIS) society, and Astronomy on Tap in Leiden, and I write regularly for Astrobites. My writing was recently featured in Zenit, a Dutch science magazine. 
+title: Science Communication
+permalink: /science_communication/
+description: Communicating science is one of my favourite parts of being an astronomer. Alongside my PhD research, I have been writing science communication pieces with Astrobites and a featured article in Zenit (a science magazine in the Netherlands). I've also been invited to give public talks, including with the Copernicus Observatory, Astronomy on Tap, iTelescope.net, and the Durham University Women in STEM society.
 nav: true
 nav_order: 5
 display_categories: false
