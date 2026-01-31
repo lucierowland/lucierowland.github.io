@@ -330,7 +330,7 @@ scholar:
   join_strings: true
 
   details_dir: bibliography
-  details_link: Details
+  details_link: false #Details
 
   query: "@*"
   group_by: year
