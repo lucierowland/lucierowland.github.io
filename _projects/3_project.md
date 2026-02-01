@@ -32,3 +32,14 @@ In this work, we present high-resolution ALMA observations of REBELS-25, which w
 <div class="caption">
    3DBAROLO kinematics fitting for REBELS-25. Emission is masked at 2 sigma. The first column on the left shows the observed data, the middle column the model and the column on the right shows the residuals. The first row is for the intensity map, the second row for the velocity field map and the bottom row for the velocity dispersion map. In all plots, the black cross and the ellipse mark the centre and the radial extent of the modelling, respectively. In the first two rows we also show the position angle of the best-fitting model by the dashed line. In the second row, the grey dots give an indication of the separation of each ring along the velocity field (0.11"). In the velocity field map of the data and model, we also plot the iso-contours from -180 to 180 km/s in 45 km/s increments. In all maps, the beam size is indicated by the turquoise ellipse in the bottom left corner.
 </div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Figure2.png" title="Nearby dwarf galaxies" class="img-fluid rounded z-depth-1" %}
+    
+    </div>
+</div>
+<div class="caption">
+    The three galaxies I studied in this work were observed with the MUSE IFU on the Very Large Telescope (VLT) in Chile.
+</div>
