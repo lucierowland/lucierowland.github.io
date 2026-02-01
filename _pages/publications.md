@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-nav: true
+nav: false
 nav_order: 2
 
 #move this below the lines to make it work
