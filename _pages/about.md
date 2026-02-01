@@ -6,7 +6,7 @@ subtitle: PhD Student at Leiden Observatory #<a href='#'>Affiliations</a>. Addre
 
 profile:
   align: right
-  image: FC_20220701_0038.JPG
+  image: FC_20220701_0011 2.JPG
   image_circular: false # crops the image to make it circular
   
   #more_info: >
