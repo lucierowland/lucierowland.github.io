@@ -30,7 +30,7 @@ See the ESO press release [here](https://www.eso.org/public/news/eso2415/) and t
 ---
 
 ## 20 March 2025 — Oxygen in the most distant confirmed galaxy (JADES-GS-z14-0)
-Using ALMA, our community detected **oxygen** in **JADES-GS-z14-0**, locking in its extreme distance and showing that **chemical enrichment began astonishingly early** — when the Universe was under ~300 million years old.  
+Using ALMA, we detected **oxygen** in **JADES-GS-z14-0**, locking in its extreme distance and showing that **chemical enrichment began astonishingly early** — when the Universe was under ~300 million years old.  
 
 **Read the ESO press release [here](https://www.eso.org/public/news/eso2507/)** 
 
