@@ -1,6 +1,6 @@
 ---
 layout: page
-title:Linking Damped Lyman-α Absorption, [CII] Emission and Dust in the Epoch of Reionisation
+title:Linking Damped Lyman-α Absorption, \[CII] Emission and Dust in the Epoch of Reionisation
 description: Submitted to A&A 
 importance: 4
 category: The Distant Giants
