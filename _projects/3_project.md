@@ -9,7 +9,6 @@ giscus_comments: false
 related_publications: true
 ---
 
-**{% cite rowland_2024b %}**
 
 In this work, we present high-resolution ALMA observations of REBELS-25, which we identify as the most distant confirmed rotating disc galaxy observed to date. This discovery challenges the prevailing expectation that early galaxies, formed in the aftermath of the Big Bang, would be irregular and turbulent, shaped by frequent mergers and rapid accretion. Instead, REBELS-25 exhibits a well-ordered, thin rotating disc, similar to nearby spiral galaxies like the Milky Way.
 
