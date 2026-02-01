@@ -34,12 +34,3 @@ In this work, we present high-resolution ALMA observations of REBELS-25, which w
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Figure2.png" title="Nearby dwarf galaxies" class="img-fluid rounded z-depth-1" %}
-    
-    </div>
-</div>
-<div class="caption">
-    The three galaxies I studied in this work were observed with the MUSE IFU on the Very Large Telescope (VLT) in Chile.
-</div>
