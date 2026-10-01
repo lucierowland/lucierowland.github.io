@@ -39,7 +39,9 @@ social: true # includes social icons at the bottom of the page
 ---
 Hello, and welcome to my website! I’m Lucie Rowland, an astronomer studying galaxy formation and evolution, ranging from nearby dwarf galaxies to massive, distant galaxies in the early Universe. My work involves leveraging data from cutting-edge observatories like the James Webb Space Telescope (**JWST**) and the Atacama Large Millimeter/submillimeter Array (**ALMA**) to explore how stars form and shape their environments.
 
-Currently, I am in the fourth (and final!) year of my PhD at Leiden University in the Netherlands. Alongisde working towards my PhD, I’m also passionate about **public outreach** and **science communication**. I enjoy sharing my experiences in academia, offering advice to aspiring PhD students, and writing about the latest developments in astronomy in an accessible way.
+I have recently completed my PhD at Leiden University in the Netherlands, and from November 2026 I will be an **ESO Fellow** based in Munich, Germany. 
+
+Alongisde my research, I’m also passionate about **public outreach** and **science communication**. I enjoy sharing my experiences in academia, offering advice to aspiring PhD students, and writing about the latest developments in astronomy in an accessible way.
 
 Feel free to explore my site to learn more about my work, check out my recent publications, read my science communication pieces, and discover tips for aspiring astronomers.
 
