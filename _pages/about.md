@@ -2,7 +2,7 @@
 layout: about 
 title: About
 permalink: /
-subtitle: PhD Student at Leiden Observatory #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: ESO Fellow #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
