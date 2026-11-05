@@ -6,7 +6,7 @@ description: Exploring how galaxies form and evolve across cosmic time.
 nav: true
 nav_order: 3
 display_categories: [The Distant Giants, The Local Dwarves]
-horizontal: true
+horizontal: false
 social: true # 
 ---
 
