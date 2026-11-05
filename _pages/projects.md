@@ -2,13 +2,22 @@
 layout: page
 title: Research
 permalink: /research/
-description: Here you'll find some information about my latest research projects. Overall, I am interested in learning about how galaxies form and evolve by studying their emission lines, morphologies, and kinematics. To do this, I work with data from cutting-edge observatories like the Multi Unit Spectroscopic Explorer (MUSE) on the Very Large Telescope (VLT), the Atacama Large Millimeter/submillimeter Array (ALMA), and the James Webb Space Telescope (JWST).
+description: Exploring how galaxies form and evolve across cosmic time.
 nav: true
 nav_order: 3
 display_categories: [The Distant Giants, The Local Dwarves]
 horizontal: true
 social: true # 
 ---
+
+
+My research focuses on understanding how galaxies form and evolve, particularly during the first billion years of cosmic history. I am interested in how the earliest galaxies assembled their stars and gas, became enriched with heavy elements and dust, and developed the structures and dynamics we observe in galaxies today.
+
+To investigate these processes, I combine observations from the **James Webb Space Telescope (JWST)** and the **Atacama Large Millimeter/submillimeter Array (ALMA)**, studying the physical conditions, chemical enrichment, and kinematics of galaxies in the early Universe. I am particularly interested in what these observations can tell us about the surprisingly rapid evolution of massive galaxies at high redshift.
+
+My research also extends to nearby galaxies, where spatially resolved observations allow us to investigate star formation, stellar feedback, and the interstellar medium in greater detail. By studying galaxies across cosmic time, I aim to better understand the physical processes that drive their formation and evolution.
+
+
 
 <!-- pages/projects.md -->
 <div class="projects">
